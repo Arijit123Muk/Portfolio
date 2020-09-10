@@ -13,6 +13,6 @@ Here is the Link for my <a href="https://arijit-mukherjee.web.app/#/">Portfolio<
 
 And a glims of my portfolio is here.
 
-<a href="">
-         <img alt="Qries" src=""
+<a href="https://github.com/Arijit123Muk/Portfolio/tree/master/Screenshots">
+         <img alt="Qries" src="https://github.com/Arijit123Muk/Portfolio/blob/master/Screenshots/portfolio.gif"
          width=900" height="500">
