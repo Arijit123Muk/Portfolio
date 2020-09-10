@@ -15,4 +15,4 @@ And a glims of my portfolio is here.
 
 <a href="https://github.com/Arijit123Muk/Portfolio/tree/master/Screenshots">
          <img alt="Qries" src="https://github.com/Arijit123Muk/Portfolio/blob/master/Screenshots/portfolio.gif"
-         width=1000" height="700">
+         width=1000" height="600">
