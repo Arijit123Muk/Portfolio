@@ -29,5 +29,5 @@ Run the following command in your terminal.
 ```
 $ flutter doctor
 $ flutter pub get
-$  flutter run -d chrome
+$ flutter run -d chrome
 ```
