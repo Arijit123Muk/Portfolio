@@ -6,7 +6,7 @@ Here is my <a href="https://arijit-mukherjee.web.app/#/" target="_blank">Portfol
 ## Demo ##
 <a href="https://github.com/Arijit123Muk/Portfolio/tree/master/Screenshots">
          <img alt="Qries" src="https://github.com/Arijit123Muk/Portfolio/blob/master/Screenshots/portfolio.gif"
-              width=1000" height="600">target="_blank"</a>
+              width=1000" height="600">"</a>
 
 
 
