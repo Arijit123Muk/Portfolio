@@ -1,5 +1,5 @@
 # Portfolio
-A new open-source Flutter project that enables the developer to quickly get started with the Flutter Web application development. I have recreated my own Porfolio It contain different section like Home,About,Services,My Project and the Contact Me Section. It fully functioning website and very friendly user interaction and used Firbase Hosting services which is absolutely free for hosting my web app.
+A new open-source Flutter project that enables the developer to quickly get started with the Flutter Web application development.<p> I have recreated my own Porfolio It contain different section like Home,About,Services,My Project and the Contact Me Section. It fully functioning website and very friendly user interaction and used Firbase Hosting services which is absolutely free for hosting my web app.</p>
 
 Here is my <a href="https://arijit-mukherjee.web.app/#/" target="_blank">Portfolio</a> 
 
